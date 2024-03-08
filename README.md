@@ -29,6 +29,6 @@
 5. You can run the project using this command:
    `python main.py`
 
-**video Link that Explains the Project:**
+**Video Link that Explains the Project:**
 https://drive.google.com/file/d/1TrGo7T38d5ITwEbO-LCGyCwZ4mDhJopY/view?usp=drive_link
    
